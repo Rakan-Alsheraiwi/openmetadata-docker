@@ -1,0 +1,10 @@
+# Docker
+*.log
+*.sock
+*.pid
+*.pem
+db-data/
+airflow/
+mysql/
+.env
+__pycache__/
